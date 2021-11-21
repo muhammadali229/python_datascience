@@ -161,3 +161,4 @@ medium = cars[np.logical_and(cars['cars_per_cap'] >= 100, cars['cars_per_cap'] <
 
 # Print medium
 print(medium)
+
